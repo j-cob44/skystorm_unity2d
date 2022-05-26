@@ -5,10 +5,17 @@ Will not work in newer Unity versions yet do to deprecations. <br />
 
 
 Skystorm is an attempt at creating a game similar Flying Shark from 1987 in Unity. <br />
-Currently features 4 levels with a boss fight on the final level. <br />
+Currently features 8 waves with a boss fight on the final level. <br />
 
+Screenshots: <br />
+![Wave2](readme_imgs/wave2.png)
+![Wave3](readme_imgs/wave3.png)
+![Wave4](readme_imgs/wave4.png)
+![Wave6](readme_imgs/wave6.png)
+![Wave8](readme_imgs/wave8boss.png)
 
 TODO: 
 - Remove steamworks integration for standalone builds
 - Upgrade to lastest Unity versions
 - Add more levels and pick up where I left off back in 2017
+- Custom
