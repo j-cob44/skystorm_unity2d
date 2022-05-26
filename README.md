@@ -1,11 +1,11 @@
 # 2017 Unity2d Project - Skystorm
 
-Working in Unity version 5.6.0f3
-Will not work in newer Unity versions yet do to deprecations.
+Working in Unity version 5.6.0f3 <br />
+Will not work in newer Unity versions yet do to deprecations. <br />
 
 
-Skystorm is an attempt at creating a game similar Flying Shark from 1987 in Unity.
-Currently features 4 levels with a boss fight on the final level.
+Skystorm is an attempt at creating a game similar Flying Shark from 1987 in Unity. <br />
+Currently features 4 levels with a boss fight on the final level. <br />
 
 
 TODO: 
