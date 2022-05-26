@@ -29,3 +29,7 @@ TODO:
 - Add more levels and pick up where I left off back in 2017
 - Add custom music
 - Fix any outstanding bugs with the game
+
+
+Thanks, <br />
+Jacob
