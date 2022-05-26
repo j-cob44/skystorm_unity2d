@@ -1,5 +1,7 @@
 # 2017 Unity2d Project - Skystorm
 
+Try out the WebGl version of the game here! [https://j-cob44.github.io/skystorm_unity2d/](https://j-cob44.github.io/skystorm_unity2d/)
+
 Working in Unity version 5.6.0f3 <br />
 Will not work in newer Unity versions yet do to deprecations. <br />
 
