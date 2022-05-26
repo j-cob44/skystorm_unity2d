@@ -12,7 +12,7 @@ Features: <br />
 - Steam integration on steam build
 - Endless mode after completing the game once
 
-#Screenshots:
+# Screenshots:
 ![Wave2](readme_imgs/wave2.png)
 ![Wave3](readme_imgs/wave3.png)
 ![Wave4](readme_imgs/wave4.png)
