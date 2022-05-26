@@ -8,6 +8,11 @@ Will not work in newer Unity versions yet do to deprecations. <br />
 Skystorm is an attempt at creating a game similar Flying Shark from 1987 in Unity. <br />
 Currently features 8 waves with a boss fight on the final level. <br />
 
+Controls: <br />
+- WASD or Arrow Keys for movement
+- Space or Click to shoot
+- Escape to pause/play
+
 Features: <br />
 - Powerups
 - 8 Waves with a final boss
