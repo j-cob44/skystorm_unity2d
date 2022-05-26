@@ -14,12 +14,16 @@ Features: <br />
 - Steam integration on steam build
 - Endless mode after completing the game once
 
+<br />
+
 # Screenshots:
 ![Wave2](readme_imgs/wave2.png)
 ![Wave3](readme_imgs/wave3.png)
 ![Wave4](readme_imgs/wave4.png)
 ![Wave6](readme_imgs/wave6.png)
 ![Wave8](readme_imgs/wave8boss.png)
+
+<br />
 
 # Current Plans:
 
@@ -30,6 +34,14 @@ TODO:
 - Add custom music
 - Fix any outstanding bugs with the game
 
+<br />
 
-Thanks, <br />
-Jacob
+# Acknowledgements
+Current credits for music to: Bag Raiders - Shooting Stars <br />
+
+<br />
+<br />
+<br />
+
+Thanks for checking my game out! <br />
+-Jacob
