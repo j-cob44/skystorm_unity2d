@@ -19,8 +19,11 @@ Features: <br />
 ![Wave6](readme_imgs/wave6.png)
 ![Wave8](readme_imgs/wave8boss.png)
 
+# Current Plans:
+
 TODO: 
 - Remove steamworks integration for standalone builds
 - Upgrade to lastest Unity versions
 - Add more levels and pick up where I left off back in 2017
-- Custom
+- Add custom music
+- Fix any outstanding bugs with the game
