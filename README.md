@@ -15,7 +15,7 @@ Controls: <br />
 
 Features: <br />
 - Powerups
-- 8 Waves with a final boss
+- 8 Waves with a final boss, then transitions to endless gameplay
 - Steam integration on steam build
 - Endless mode after completing the game once
 
