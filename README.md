@@ -5,7 +5,7 @@ Try out the WebGl version of the game here! [https://j-cob44.github.io/skystorm_
 Working in Unity version 5.6.0f3 <br />
 Will not work in newer Unity versions yet due to deprecations. <br />
 
-Skystorm is an attempt at creating a game similar Flying Shark from 1987 in Unity. <br />
+Skystorm is an attempt at creating a game similar to Sky Shark in Unity. <br />
 Currently features 8 waves with a boss fight on the final level. <br />
 
 Controls: <br />
